@@ -1,0 +1,6 @@
+data/
+node_modules/
+target/
+build/classes/
+__pycache__/
+*.log

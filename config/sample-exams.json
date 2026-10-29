@@ -1,0 +1,176 @@
+[
+  [
+    "Java Programming",
+    "Computer Science",
+    "Test your understanding of Java fundamentals, objects and exception handling.",
+    20,
+    [
+      [
+        "Which keyword is used to inherit a class in Java?",
+        [
+          "implements",
+          "extends",
+          "inherits",
+          "import"
+        ],
+        1
+      ],
+      [
+        "Which method is the entry point of a Java application?",
+        [
+          "start()",
+          "run()",
+          "main()",
+          "init()"
+        ],
+        2
+      ],
+      [
+        "Which type stores a true or false value?",
+        [
+          "String",
+          "boolean",
+          "int",
+          "char"
+        ],
+        1
+      ],
+      [
+        "Which block handles an exception?",
+        [
+          "catch",
+          "class",
+          "return",
+          "package"
+        ],
+        0
+      ],
+      [
+        "Which keyword creates an object?",
+        [
+          "this",
+          "static",
+          "void",
+          "new"
+        ],
+        3
+      ]
+    ]
+  ],
+  [
+    "Electrical Fundamentals",
+    "Electrical Engineering",
+    "Review core concepts in circuits, resistance and electrical measurements.",
+    15,
+    [
+      [
+        "What is the SI unit of electrical resistance?",
+        [
+          "Volt",
+          "Ampere",
+          "Ohm",
+          "Watt"
+        ],
+        2
+      ],
+      [
+        "Which equation represents Ohm’s law?",
+        [
+          "V = IR",
+          "P = I/R",
+          "R = VI",
+          "I = VR"
+        ],
+        0
+      ],
+      [
+        "Which instrument measures current?",
+        [
+          "Voltmeter",
+          "Ammeter",
+          "Ohmmeter",
+          "Thermometer"
+        ],
+        1
+      ],
+      [
+        "In a series circuit, which quantity is the same through each component?",
+        [
+          "Voltage",
+          "Resistance",
+          "Power",
+          "Current"
+        ],
+        3
+      ],
+      [
+        "What is the SI unit of power?",
+        [
+          "Joule",
+          "Watt",
+          "Coulomb",
+          "Farad"
+        ],
+        1
+      ]
+    ]
+  ],
+  [
+    "Database Essentials",
+    "Computer Science",
+    "Check your knowledge of relational databases and everyday SQL concepts.",
+    15,
+    [
+      [
+        "What does SQL stand for?",
+        [
+          "Simple Query List",
+          "Structured Query Language",
+          "System Queue Logic",
+          "Stored Question Library"
+        ],
+        1
+      ],
+      [
+        "Which statement retrieves rows?",
+        [
+          "SELECT",
+          "DELETE",
+          "DROP",
+          "INSERT"
+        ],
+        0
+      ],
+      [
+        "What uniquely identifies a row?",
+        [
+          "A view",
+          "A primary key",
+          "A label",
+          "A query"
+        ],
+        1
+      ],
+      [
+        "Which clause filters rows?",
+        [
+          "ORDER BY",
+          "GROUP BY",
+          "WHERE",
+          "JOIN"
+        ],
+        2
+      ],
+      [
+        "Which statement adds a row?",
+        [
+          "UPDATE",
+          "ALTER",
+          "SELECT",
+          "INSERT"
+        ],
+        3
+      ]
+    ]
+  ]
+]
